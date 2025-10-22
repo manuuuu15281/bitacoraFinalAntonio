@@ -1,2 +1,7 @@
-# bitacoraFinalAntonio
-Documentación del proceso creativo para la entrega de la materia Vision Artificial 2025-2
+# BITACORA PROYECTO FINAL VISION ARTIFICIAL
+
+### Ideación
+
+Para esta primera etapa decidimos vincular, 
+
+
