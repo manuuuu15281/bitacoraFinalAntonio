@@ -29,8 +29,8 @@ Para empezar hicimos un proceso de ideación en cuanto  a los efectos que querí
 
 Luego, empezamos nuestro proceso de experimentación/replicación de tutoriales que ya existen en YouTube con el fin de comprender cómo utilizar el programa y dominarlo más. Despues de esa indagación y práctica de manejos básicos de Touch iniciamos la experimentación que nos llevó a resultados muy diferentes y únicos. 
 
-Seguido a esto, empezamos a ver documentación y tutoriales acerca de visuales Audioreactivos que nos ayudarian luego para implementarlo en nuestro modelo, finalmente lo hicimos y pasamos al modelo MediaPipe que era importante para nosotros con el fin de agregar interactividad a este proyecto. 
+Seguido a esto, empezamos a ver documentación y tutoriales acerca de visuales Audioreactivos que nos ayudarian luego para implementarlo en nuestro modelo. 
 
-
+En el proceso de hacer funcionar el mediaPipe con los visuales tuvimos varios problemas para usar el plugging porque del repositorio de donde lo adquirimos no tenía actualizado el plugging y hacerlo funcionar fue un dolor de cabeza. Para solucionarlo tuvimos que sacar un gran pedazo de tiempo en ver tutoriales y leer la documentación de Torin para descubrir que pasaba, la solución fue sencilla: buscar una de las versiones más recientes del plugging que tenia mejores acabado y precisiones. Finalmente lo hicimos y terminamos definiendo que parámetro iba a controlar cada valor obtenido tanto del MediaPipe como del audio análisis (del cual usamos low,high,snare,kick).
 
 <img width="752" height="715" alt="image" src="https://github.com/user-attachments/assets/79fd76f6-be33-4f97-a2f0-8850e7b571ac" />
